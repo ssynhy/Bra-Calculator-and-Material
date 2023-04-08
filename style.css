@@ -30,7 +30,7 @@ ul{
 }
 .logo{
     display: flex;
-    font-size: 50px;
+    font-size: 30px;
     font-weight: 800;
     color:rgb(114, 229, 191);
     letter-spacing: 3px;
@@ -58,7 +58,7 @@ nav{
     margin: 0 15px;
 }
 .navItems li a{
-    font-size: 30px;
+    font-size: 15px;
     color:rgb(114, 229, 191);
     letter-spacing: 1px;
     text-decoration: none;
@@ -86,16 +86,16 @@ nav{
     min-height: 100vh;
 }
 .container .content h4{
-    font-size: 25px;
+    font-size: 20px;
     color:#6c276e;
     font-family: 'Courier New', Courier, monospace;
 }
 .container .content h1{
-    font-size: 45px;
+    font-size: 30px;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 .container .content h3{
-    font-size: 35px;
+    font-size: 20px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #6c276e;
 }
